@@ -1,0 +1,14 @@
+D:\Projects\bulutli\bulutli\bin\Debug\net6.0\bulutli.exe
+D:\Projects\bulutli\bulutli\bin\Debug\net6.0\bulutli.deps.json
+D:\Projects\bulutli\bulutli\bin\Debug\net6.0\bulutli.runtimeconfig.json
+D:\Projects\bulutli\bulutli\bin\Debug\net6.0\bulutli.dll
+D:\Projects\bulutli\bulutli\bin\Debug\net6.0\bulutli.pdb
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.AssemblyInfoInputs.cache
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.AssemblyInfo.cs
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.csproj.CoreCompileInputs.cache
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.dll
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\refint\bulutli.dll
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.pdb
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\bulutli.genruntimeconfig.cache
+D:\Projects\bulutli\bulutli\obj\Debug\net6.0\ref\bulutli.dll
